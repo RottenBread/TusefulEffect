@@ -1,0 +1,14 @@
+name: TusefulEffect
+main: towo\Main
+author: towo
+version: 1.0
+api: 
+- 3.0.0-ALPHA11
+
+commands:
+  투명화:
+   usage: /투명화
+   description: 투명화 관련 명령어 확인
+  야간투시:
+   usage: /야간투시
+   description: 야간투시 관련 명령어 확인
